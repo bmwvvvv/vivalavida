@@ -13,7 +13,6 @@ a.out
 
 # Add my private directories and files
 oracle/
-excel/
 doc/
 *.tar
 *.tar.gz
