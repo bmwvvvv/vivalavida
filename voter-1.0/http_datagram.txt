@@ -1,0 +1,16 @@
+﻿POST /index.php/Index/login.html HTTP/1.1
+Host: 900.ocarservice.com
+Connection: keep-alive
+
+Content-Length: 39
+Accept: */*
+Origin: http://900.ocarservice.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36 OPR/35.0.2066.68
+Content-Type: application/x-www-form-urlencoded
+Referer: http://900.ocarservice.com/index.php/Index/tologin.html
+Accept-Encoding: gzip, deflate, lzma
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: nickname=18792851236; PHPSESSID=11ls4c4dmt8rs8hacds3c9j263
+
+nickname=18792851236&password=963852741
