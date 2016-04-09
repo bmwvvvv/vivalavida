@@ -10,3 +10,10 @@ a.out
 
 # Add in special Atari 7800-based binaries for good measure
 *.a78
+
+# Add my private directories and files
+oracle/
+excel/
+doc/
+*.tar
+*.tar.gz
