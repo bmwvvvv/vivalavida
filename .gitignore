@@ -17,3 +17,5 @@ excel/
 doc/
 *.tar
 *.tar.gz
+*.swo
+*.swp
