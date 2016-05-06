@@ -1,0 +1,11 @@
+Fri May  6 21:03:26 CST 2016
+
+function: generate ssh public key
+usage:
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+output:
+generate 2 text file: id_rsa, id_rsa.pub in the directory
+~/.ssh(By default)
+next step: copy the content in the file id_rsa.pub and 
+paste the github.com Setting-->SSH and GPG keys
+Then you can clone the repository in the way of ssh.
