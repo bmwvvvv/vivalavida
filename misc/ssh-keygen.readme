@@ -9,3 +9,9 @@ generate 2 text file: id_rsa, id_rsa.pub in the directory
 next step: copy the content in the file id_rsa.pub and 
 paste the github.com Setting-->SSH and GPG keys
 Then you can clone the repository in the way of ssh.
+
+ssh-related command:
+$ssh-add -l
+Show existing fingerprint
+$ssh -vT git@github.com
+Debugging SSH connnection
