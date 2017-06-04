@@ -1,0 +1,5 @@
+# Check Linux System Services status under 0 ~ 6 running level
+chkconfig --list
+
+# Check Windows System Services status
+sc query
